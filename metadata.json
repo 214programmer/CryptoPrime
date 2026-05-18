@@ -1,8 +1,0 @@
-{
-  "name": "CryptoPrime Presentation",
-  "description": "Exclusive presentation of the CryptoPrime Telegram channel with user registration and manager highlights.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
