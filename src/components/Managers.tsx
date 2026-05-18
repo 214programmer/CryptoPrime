@@ -14,7 +14,8 @@ const owner = {
 const managers = [
   "@reklama_nikita", "@reklama_lana", "@admanagery", "@ga11hm", 
   "@vitaliy_crypto", "@Martynov_nikita", "@ownerpremiumdao", 
-  "@Nos0k_TON", "t.me/chepuha", "@E777KX20", "@amcintosh7426"
+  "@Nos0k_TON", "t.me/chepuha", "@E777KX20", "@amcintosh7426",
+  "@qwermoys"
 ];
 
 export const Managers: React.FC = () => {
